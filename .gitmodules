@@ -1,0 +1,6 @@
+[submodule "l01-HalasTomasz"]
+	path = l01-HalasTomasz
+	url = https://github.com/pwr-ai-pgm/l01-HalasTomasz
+[submodule "summer-24-lab1-HalasTomasz"]
+	path = summer-24-lab1-HalasTomasz
+	url = https://github.com/PDIOW-PWR/summer-24-lab1-HalasTomasz

@@ -1,0 +1,43 @@
+# Teksty alternatywne
+
+##Lab 01
+
+### Wstęp:
+Obraz z punktu 3:
+Zrzut z ekranu przedstawiający dysk google oraz dwa otwarte okna. W pierwszym oknie zaznaczona jest druga pozycja Open with. W drugim oknie kursor wskazuje pierwszą pozycję, którą jest Google Colaboratory
+
+Obraz z punktu 4:
+Zrzut z ekranu przedstawiający otwartą zakładkę Runtime. Myszka wskazuje na dziesiątą pozycję, którą jest change runtime type
+
+Obraz z punktu 5:
+Zrzut z ekranu przedstawiający rozwijaną listę Hardware accelerator. Kursor wskazuje druga pozycję, którą jest GPU, a następnie polecenie save
+
+Obrazy z punktu 6:
+(1) Zrzut z ekranu przedstawiający kursor wskazujący na opcję Connect.
+(2) Zrzut z ekranu przedstawiający zmianę statusu przycisku Connect. W oknie z informacją o Ram oraz Disk widoczna jest zielona parafka.
+
+Tensory - obraz:
+Obrazek przedstawiający przycisk uruchamiania kodu z komórki
+
+##Lab 05
+
+Obraz pod tekstem "Poniższy obrazek reprezentuje lewy, górny róg mapy cech:"
+Mapa cech złożona z 5x5 kwadratów. Czarny obszar znajduje się wzdłuż 1 kolumny (5 kwadratów) i 1 wiersza (5 kwadratów). Pozostałe kwadraty są białe.
+
+"--------- Wejście ---------------------"
+Mapa cech złożona z 5x5 kwadratów. Czarny obszar znajduje się wzdłuż 1 kolumny (5 kwadratów) i 1 wiersza (5 kwadratów). Dodatkowo występują: dwa kwadraty koloru czerwonego (2 kolumna, wiersz 2 i 3), dwa kwadraty koloru fioletowego (3 kolumna, wiersz 2 i 3), dwa kwadraty koloru niebieskiego (4 kolumna, wiersz 2 i 3). Pozostałe kwadraty są białe.
+
+"Wyjście ----------"
+Mapa cech złożona z 5x5 kwadratów. Czarny obszar znajduje się wzdłuż 1 kolumny (5 kwadratów) i 1 wiersza (5 kwadratów). Dodatkowo występują: jeden kwadrat koloru czerwonego (2 kolumna, wiersz 2) i jeden kwadrat koloru niebieskiego (3 kolumna, wiersz 2). Pozostałe kwadraty są białe.
+
+"Dla padding=1`pola obejmowane przez filtr będą wyglądać tak:"
+Mapa cech złożona z 5x5 kwadratów: kolumna 1, wiersz 1 i 2 dwa kwadraty koloru czerwnonego, kolumna 2, wiersz 1 i 2 dwa kwadraty koloru fioletowego, kolumna 3, wiersz 1 i 2 dwa kwadraty koloru niebieskiego, kolumna 4 i 5, wiersz 1 dwa kwadraty koloru czarnego, kolumna 1 wiersz 3, 4 i 5 trzy kwadraty koloru czarnego. Pozostałe kwadraty są białe.   
+
+"Parametr `stride` to krok filtra. Używany jest aby zredukować wymiary szerokości i wysokości pomiędzy kolejnymi warstwami konwolucyjnymi. `stride=2` daje nam downsampling do dwukrotnie mniejszej rozdzielczości, z wykorzystaniem uczącej się warstwy która może jednocześnie zmienić liczbę kanałów:"
+Czarny obszar znajduje się wzdłuż 1 kolumny (5 kwadratów) i 1 wiersza (5 kwadratów). Dodatkowo występują: cztery kwadraty koloru czerwonego (2 i 3 kolumna, wiersz 2 i 3) i cztery kwadraty koloru niebieskiego (4 i 5 kolumna, wiersz 2 i 3). Pozostałe kwadraty są białe.
+
+"Parametr dilation określa rozstaw filtra. Pozwala to obejmować filtrem piksele odległe od siebie o pewną stałą wartość. Szczególnie istotnym wykorzystaniem tego parametru jest użycie sekwencji warstw, w których kolejne wartości dilation to kolejne potęgi 2 - efektywnie skalując rozmiar pola obejmowanego przez całą architekturę wykładniczo z głębokością. Dla dilation=2:"
+Czarny obszar znajduje się wzdłuż 1 kolumny (5 kwadratów) i 1 wiersza (5 kwadratów). Dodatkowo występują: cztery kwadraty koloru czerwonego (2 i 4 kolumna, wiersz 2 i 4) i cztery kwadraty koloru niebieskiego (3 i 5 kolumna, wiersz 2 i 4). Pozostałe kwadraty są białe.
+
+##Lab 7
+Obraz - efekt końcowy dzieła uzyskany w wyniku przedstawienia treści obrazka pierwszego w stylu obrazka drugiego.
