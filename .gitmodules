@@ -4,3 +4,21 @@
 [submodule "summer-24-lab1-HalasTomasz"]
 	path = summer-24-lab1-HalasTomasz
 	url = https://github.com/PDIOW-PWR/summer-24-lab1-HalasTomasz
+[submodule "PGM"]
+	path = PGM
+	url = https://github.com/pwr-ai-pgm/l02-HalasTomasz.git
+[submodule "OdkrywanieLista2"]
+	path = OdkrywanieLista2
+	url = https://github.com/PDIOW-PWR/summer-24-lab2-HalasTomasz.git
+[submodule "Odkrywanie/Lista2"]
+	path = Odkrywanie/Lista2
+	url = https://github.com/PDIOW-PWR/summer-24-lab2-HalasTomasz.git
+[submodule "OdkrywanieLista3"]
+	path = OdkrywanieLista3
+	url = https://github.com/PDIOW-PWR/summer-24-lab3-6-HalasTomasz.git
+[submodule "Odkrywanie/Lista3"]
+	path = Odkrywanie/Lista3
+	url = https://github.com/PDIOW-PWR/summer-24-lab3-6-HalasTomasz.git
+[submodule "PGM_LISTY/Lista_3"]
+	path = PGM_LISTY/Lista_3
+	url = https://github.com/pwr-ai-pgm/l03-HalasTomasz.git
